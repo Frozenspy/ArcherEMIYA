@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+div {
+    border: 1px solid black;   
+}
+
+img {
+    width: 550px;   
+}
+
+.Quotes{
+ color: red;
+}
+
+.posts{
+color: white;
+}
+
+.friendsList{
+color: grey;
+}
